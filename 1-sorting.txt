@@ -1,0 +1,7 @@
+
+An algorithm that reads in three numbers and writes them all in sorted order:
+
+
+Read num1, num2, num3
+Check if  num1 < num2 < num3 or num1 > num2 > num3
+Write num1, num2, num3 according to which comes first.

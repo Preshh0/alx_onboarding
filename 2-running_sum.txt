@@ -1,0 +1,8 @@
+An algorithm that calculates a running sum
+
+Declare sum variable; sum = 0
+Ask for user input; user_input = 0
+Check   IF user_input > 0:
+	        sum = sum + sum
+        ELSE break;
+            PRINT sum

@@ -1,0 +1,9 @@
+An algorithm that calculates the sum of squares of given input of numbers:
+
+Declare the total number of numbers that would be summed; total _num = n
+Declare the variable to accept inputs; x = Input
+Declare the variable to calculate the sum; sum = 0
+Do a loop so                                WHILE x < n:
+the computer keeps calculating the square	        square = x * x
+calculate the sum until the values are exhausted    sum =sum + square 
+print out the total_sum; output sum
